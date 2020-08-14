@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Minecraft Wiki</string>
+    <string name="button0">主页</string>
+    <string name="button1">搜索</string>
+    <string name="button2">关于</string>
+    <string name="minecraft_wiki">Minecraft Wiki</string>
+    <string name="text_Version">1.0</string>
+</resources>
